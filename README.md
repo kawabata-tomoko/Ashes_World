@@ -1,4 +1,4 @@
-## Ashes_World/阿塞斯世界项目
+## Ashes_World|阿塞斯世界项目
 *阿塞斯世界（Ashes_World | Ä'shèsę El mundo）wiki Program*
 该项目用于存档归类虚构世界阿塞斯的相关情节和设定。我闲下来会考虑将文件部署成wiki共查阅方便使用，有能力的老哥可以直接提交在库里。
 + 原始地址：<https://www.nmbxd1.com/t/54209858> （Language: Simplified Chinese）
@@ -11,8 +11,8 @@ __著作权归编辑者和X岛共同所有，请不要在未说明的情况下�
 
 ## 编辑说明
 项目分为若干文件夹进行存储
-+ 种族/生态设定（Race/Ecology）
-+ 国家/组织设定（Country/Organization）
++ 种族/生态设定（Race and Ecology）
++ 国家/组织设定（Country and Organization）
 + 重要历史事件设定（Historys）
 + 运行机制类设定（Systems）
 + 特殊剧情设定（Scenario）
