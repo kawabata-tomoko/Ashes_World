@@ -25,4 +25,5 @@ __著作权归编辑者和X岛共同所有，请不要在未说明的情况下�
 __请在更新相关设定的时候写明更新了什么内容，没有把握或内容冲突可以创建新分支__
 
 项目Gitee地址 ： <https://gitee.com/tomokoioa/Ashes_World>
-在此处更新内容会定期同步到Gitee上
+项目GitHub地址：<https://github.com/kawabata-tomoko/Ashes_World/>
+项目内容会定期在两个平台间同步
