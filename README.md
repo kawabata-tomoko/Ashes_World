@@ -26,4 +26,4 @@ __请在更新相关设定的时候写明更新了什么内容，没有把握或
 
 项目Gitee地址 ： <https://gitee.com/tomokoioa/Ashes_World>
 项目GitHub地址：<https://github.com/kawabata-tomoko/Ashes_World/>
-项目内容会定期在两个平台间同步
+项目内容会定期在两个平台间同步，更新时，两个平台信息如果时间间隔太短可能导致数据丢失，请注意备份。
